@@ -24,3 +24,4 @@ Key Insights Drawn:
 3. SL % is little bit increasing.
 4. Most of the employees prefer WFH on Friday.
 5. Most of the employees are present on Monday.
+
